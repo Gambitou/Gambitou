@@ -13,6 +13,7 @@ Soy estudiante de programación en un bootcamp **Fullstack Java**, apasionado po
 - 🐍 Con conocimientos parciales en **Python**
 - 💡 Siempre abierto a nuevos desafíos y proyectos
 - 🎯 Meta: convertirme en desarrollador fullstack
+- Integracion de IA en proyectos.
 
 ---
 
